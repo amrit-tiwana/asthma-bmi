@@ -1,2 +1,2 @@
 # asthma-bmi
-asthma and bmi analysis
+The association between asthma and bmi
